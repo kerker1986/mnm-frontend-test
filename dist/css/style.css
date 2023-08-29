@@ -275,10 +275,7 @@ main {
     color: #5EC9CA !important;
 }
 
-.ant-btn:hover,
-.ant-btn:focus {
-    border-color: #5EC9CA !important;
-}
+
 
 .ant-input:hover {
     border-color: #5EC9CA !important;
@@ -351,10 +348,6 @@ main {
     border-color: rgba(140, 140, 140, 0.5) !important;
 }
 
-.ant-btn:hover,
-.ant-btn:focus {
-    color: #5EC9CA !important;
-}
 
 @media (max-width: 1200px) {
     .ant-table table {
