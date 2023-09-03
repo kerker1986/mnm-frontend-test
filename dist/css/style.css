@@ -349,6 +349,9 @@ main {
 }
 
 
+.ant-popover p {
+    margin: 0 !important;
+  }
 @media (max-width: 1200px) {
     .ant-table table {
         width: 1000px !important;
